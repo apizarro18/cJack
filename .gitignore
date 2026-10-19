@@ -1,0 +1,5 @@
+*.o
+*.out
+blackjack
+.vscode/
+.DS_Store
